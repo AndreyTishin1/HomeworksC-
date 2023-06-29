@@ -24,3 +24,4 @@ void oddPosithion(int colElements)
 Console.WriteLine("задайте число элементов массива: ");
 int colElements = int.Parse(Console.ReadLine());
 oddPosithion(colElements);
+
